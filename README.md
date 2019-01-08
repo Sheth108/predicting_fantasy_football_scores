@@ -1,7 +1,6 @@
-# predicting_fantasy_football_scores
-Linear Regression Model to Predict Fantasy Football Scores for Quarterbacks:
+# Predicting Fantasy Football Scores for Quarterbacks
 
-This was my first real data science project. Below is a short description of the purpose of each file.
+This was my first real data science project. I used data scraped from fantasydata.com in order to create a linear regression model to predict fantasy points a quarterback would score in a week given the averages of prior statistics related to the quarterback and the defense they were playing that week. Below is a short description of the purpose of each file.
 
 ## Scrape Game Data One Team
 
